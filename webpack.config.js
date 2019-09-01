@@ -4,6 +4,8 @@ module.exports = {
     plugins: [
         new CopyWebpackPlugin([{
             from: './*.html'
+        }, {
+            from: './*.css'
         }])
     ]
 }
