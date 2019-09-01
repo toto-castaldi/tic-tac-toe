@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPLv3",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
     "gh-pages": "^2.1.1",
