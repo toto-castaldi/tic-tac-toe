@@ -1,4 +1,7 @@
 import * as p5 from 'p5';
+import './style.css';
+import '../node_modules/github-fork-ribbon-css/gh-fork-ribbon.css';
+
 
 const sketch = (s) => {
 
